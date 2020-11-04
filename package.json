@@ -1,7 +1,7 @@
 {
   "name": "earthquakes-viz",
   "version": "1.0.0",
-  "description": "A visualization of earthquakes with exaggerated depth",
+  "description": "test some data visualizing",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
